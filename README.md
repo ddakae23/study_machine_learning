@@ -1,1 +1,3 @@
-# study_machine_learning
+# A personal study of machine learning
+
+
